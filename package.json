@@ -1,10 +1,11 @@
 {
   "name": "config-runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Flávio Carvalho",
   "license": "MIT",
   "module": "dist/config-runtime.esm.js",
   "main": "dist/index.js",
+  "repository": "flaviouk/config-runtime",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
